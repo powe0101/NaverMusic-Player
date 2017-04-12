@@ -1,0 +1,8 @@
+C:\Users\John\Documents\nmp\NaverMusicPlayer\NaverMusicPlayer\bin\Release\NaverMusicPlayer.exe
+C:\Users\John\Documents\nmp\NaverMusicPlayer\NaverMusicPlayer\bin\Release\NaverMusicPlayer.pdb
+C:\Users\John\Documents\nmp\NaverMusicPlayer\NaverMusicPlayer\obj\x86\Release\NaverMusicPlayer.fTitle.resources
+C:\Users\John\Documents\nmp\NaverMusicPlayer\NaverMusicPlayer\obj\x86\Release\NaverMusicPlayer.Properties.Resources.resources
+C:\Users\John\Documents\nmp\NaverMusicPlayer\NaverMusicPlayer\obj\x86\Release\NaverMusicPlayer.csproj.GenerateResource.Cache
+C:\Users\John\Documents\nmp\NaverMusicPlayer\NaverMusicPlayer\obj\x86\Release\NaverMusicPlayer.exe
+C:\Users\John\Documents\nmp\NaverMusicPlayer\NaverMusicPlayer\obj\x86\Release\NaverMusicPlayer.pdb
+C:\Users\John\Documents\nmp\NaverMusicPlayer\NaverMusicPlayer\obj\x86\Release\NaverMusicPlayer.csprojResolveAssemblyReference.cache
